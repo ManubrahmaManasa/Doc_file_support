@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doc_file_support</string>
+    <string name="file_viewer">File Viewer</string>
+    <string name="button">+</string>
+</resources>
